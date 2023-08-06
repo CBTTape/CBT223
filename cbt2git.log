@@ -1,0 +1,12 @@
+2023-08-06 02:19:18.459601 - Initialized conversion of CBT223
+2023-08-06 02:19:18.546094 - Received CBT.V505.FILE223.PDS from FILE223.XMI 
+2023-08-06 02:19:18.548421 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:19:18.549654 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/$$$DOC
+2023-08-06 02:19:18.550586 - Found @FILE223.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/@FILE223
+2023-08-06 02:19:18.550595 - Found ITMDBDEF.bin containing application/octet-stream, moved to PDS/ITMDBDEF
+2023-08-06 02:19:18.552581 - Found ITMPAR01.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/ITMPAR01
+2023-08-06 02:19:18.553451 - Found ITMSFUNC.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/ITMSFUNC
+2023-08-06 02:19:18.554393 - Found ITMSRUN.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/ITMSRUN
+2023-08-06 02:19:18.555414 - Found ITMS000A.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/ITMS000A
+2023-08-06 02:19:18.556267 - Found ITMS705I.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/ITMS705I
+2023-08-06 02:19:18.557520 - Found ITMS705M.txt (text/plain) in CBT.V505.FILE223.PDS, moved to PDS/ITMS705M
